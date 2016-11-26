@@ -4,11 +4,11 @@ Java Minesweeper Application
 
 ---
 
-[![solarized dualmode](https://github.com/BrandonJoffe/Minesweeper/blob/master/game-start.png?raw=true)](#features)
+## ScreenShot
 
 [![solarized dualmode](https://github.com/BrandonJoffe/Minesweeper/blob/master/game-end.png?raw=true)](#features)
 
 # Disclaimer
 
-1st Year Computer Science Assignment 2013
+Developed for a 1st year computer science assignment 2013 - University of Cape Town
 
